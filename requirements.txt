@@ -1,0 +1,1 @@
+alembic\nfastapi\nfastapi>=0.70.0\nhttpx\nnumpy\npandas\npasslib[bcrypt]\npydantic\npymysql\npytest\npython-jose[cryptography]\npython-multipart\nredis\nrequests\nscikit-learn\nsqlalchemy\nuvicorn[standard]
